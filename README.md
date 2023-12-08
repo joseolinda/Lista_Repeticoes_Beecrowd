@@ -26,7 +26,7 @@ Resolução dos exercícios da disciplina de Linguagem de Programação e Progra
 
 - [x] Q08 - 1133 - Resto da Divisãoa: [ver questão](https://www.beecrowd.com.br/judge/pt/problems/view/1133) ou [ver resposta](https://raw.githubusercontent.com/joseolinda/Lista_Repeticoes_Beecrowd/main/8.1133_resto_divisao.c).
 
-- [ ] Q09 - 1134 - Tipo de Combustível: [ver questão](https://www.beecrowd.com.br/judge/pt/problems/view/1134) ou [ver resposta](https://raw.githubusercontent.com/joseolinda/Lista_Repeticoes_Beecrowd/main/9.1134_tipo_combustivel.c).
+- [X] Q09 - 1134 - Tipo de Combustível: [ver questão](https://www.beecrowd.com.br/judge/pt/problems/view/1134) ou [ver resposta](https://raw.githubusercontent.com/joseolinda/Lista_Repeticoes_Beecrowd/main/9.1134_tipo_combustivel.c).
 
 - [ ] Q10 - 1145 - Sequência Lógica 2: [ver questão](https://www.beecrowd.com.br/judge/pt/problems/view/1145) ou [ver resposta](https://raw.githubusercontent.com/joseolinda/Lista_Repeticoes_Beecrowd/main/10.1145_sequencia_logica_2.c).
 
