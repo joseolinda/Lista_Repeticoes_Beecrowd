@@ -12,7 +12,7 @@ Resolução dos exercícios da disciplina de Linguagem de Programação e Progra
 
 - [x] Q1 - 1074 - Par ou Ímpar: [ver questão](https://www.beecrowd.com.br/judge/pt/problems/view/1074) ou [ver resposta](https://raw.githubusercontent.com/joseolinda/Lista_Repeticoes_Beecrowd/main/1.1074_par_ou_impar.c).
 
-- [ ] Q2 - 1078 - Tabuada: [ver questão](https://www.beecrowd.com.br/judge/pt/problems/view/1078) ou [ver resposta](https://raw.githubusercontent.com/joseolinda/Lista_Repeticoes_Beecrowd/main/2.1078_tabuada.c).
+- [x] Q2 - 1078 - Tabuada: [ver questão](https://www.beecrowd.com.br/judge/pt/problems/view/1078) ou [ver resposta](https://raw.githubusercontent.com/joseolinda/Lista_Repeticoes_Beecrowd/main/2.1078_tabuada.c).
 
 - [ ] Q3 - 1080 - Maior e Posição: [ver questão](https://www.beecrowd.com.br/judge/pt/problems/view/1080) ou [ver resposta](https://raw.githubusercontent.com/joseolinda/Lista_Repeticoes_Beecrowd/main/3.1080_maior_e_posicao.c).
 
