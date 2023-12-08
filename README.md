@@ -10,23 +10,23 @@ Resolução dos exercícios da disciplina de Linguagem de Programação e Progra
 
 #### Questões
 
-- [x] Q1 - 1074 - Par ou Ímpar: [ver questão](https://www.beecrowd.com.br/judge/pt/problems/view/1074) ou [ver resposta](https://raw.githubusercontent.com/joseolinda/Lista_Repeticoes_Beecrowd/main/1.1074_par_ou_impar.c).
+- [x] Q01 - 1074 - Par ou Ímpar: [ver questão](https://www.beecrowd.com.br/judge/pt/problems/view/1074) ou [ver resposta](https://raw.githubusercontent.com/joseolinda/Lista_Repeticoes_Beecrowd/main/1.1074_par_ou_impar.c).
 
-- [x] Q2 - 1078 - Tabuada: [ver questão](https://www.beecrowd.com.br/judge/pt/problems/view/1078) ou [ver resposta](https://raw.githubusercontent.com/joseolinda/Lista_Repeticoes_Beecrowd/main/2.1078_tabuada.c).
+- [x] Q02 - 1078 - Tabuada: [ver questão](https://www.beecrowd.com.br/judge/pt/problems/view/1078) ou [ver resposta](https://raw.githubusercontent.com/joseolinda/Lista_Repeticoes_Beecrowd/main/2.1078_tabuada.c).
 
-- [X] Q3 - 1080 - Maior e Posição: [ver questão](https://www.beecrowd.com.br/judge/pt/problems/view/1080) ou [ver resposta](https://raw.githubusercontent.com/joseolinda/Lista_Repeticoes_Beecrowd/main/3.1080_maior_e_posicao.c).
+- [X] Q03 - 1080 - Maior e Posição: [ver questão](https://www.beecrowd.com.br/judge/pt/problems/view/1080) ou [ver resposta](https://raw.githubusercontent.com/joseolinda/Lista_Repeticoes_Beecrowd/main/3.1080_maior_e_posicao.c).
 
-- [x] Q4 - 1099 - Soma de Ímpares Consecutivos II: [ver questão](https://www.beecrowd.com.br/judge/pt/problems/view/1099) ou [ver resposta](https://raw.githubusercontent.com/joseolinda/Lista_Repeticoes_Beecrowd/main/4.1099_soma_impares.c).
+- [x] Q04 - 1099 - Soma de Ímpares Consecutivos II: [ver questão](https://www.beecrowd.com.br/judge/pt/problems/view/1099) ou [ver resposta](https://raw.githubusercontent.com/joseolinda/Lista_Repeticoes_Beecrowd/main/4.1099_soma_impares.c).
 
-- [X] Q5 - 1114 - Senha Fixa: [ver questão](https://www.beecrowd.com.br/judge/pt/problems/view/1114) ou [ver resposta](https://raw.githubusercontent.com/joseolinda/Lista_Repeticoes_Beecrowd/main/5.1014_senha_fixa.c).
+- [X] Q05 - 1114 - Senha Fixa: [ver questão](https://www.beecrowd.com.br/judge/pt/problems/view/1114) ou [ver resposta](https://raw.githubusercontent.com/joseolinda/Lista_Repeticoes_Beecrowd/main/5.1014_senha_fixa.c).
 
-- [x] Q6 - 1116 - Dividinho X por Y: [ver questão](https://www.beecrowd.com.br/judge/pt/problems/view/1116) ou [ver resposta](https://raw.githubusercontent.com/joseolinda/Lista_Repeticoes_Beecrowd/main/6.1116_dividindo_x_y.c).
+- [x] Q06 - 1116 - Dividinho X por Y: [ver questão](https://www.beecrowd.com.br/judge/pt/problems/view/1116) ou [ver resposta](https://raw.githubusercontent.com/joseolinda/Lista_Repeticoes_Beecrowd/main/6.1116_dividindo_x_y.c).
 
-- [ ] Q7 - 1118 - Várias Notas Com Validação: [ver questão](https://www.beecrowd.com.br/judge/pt/problems/view/1118) ou [ver resposta](https://raw.githubusercontent.com/joseolinda/Lista_Repeticoes_Beecrowd/main/7.1118_notas_validacao.c).
+- [x] Q07 - 1118 - Várias Notas Com Validação: [ver questão](https://www.beecrowd.com.br/judge/pt/problems/view/1118) ou [ver resposta](https://raw.githubusercontent.com/joseolinda/Lista_Repeticoes_Beecrowd/main/7.1118_notas_validacao.c).
 
-- [ ] Q8 - 1133 - Resto da Divisãoa: [ver questão](https://www.beecrowd.com.br/judge/pt/problems/view/1133) ou [ver resposta](https://raw.githubusercontent.com/joseolinda/Lista_Repeticoes_Beecrowd/main/8.1133_resto_divisao.c).
+- [ ] Q08 - 1133 - Resto da Divisãoa: [ver questão](https://www.beecrowd.com.br/judge/pt/problems/view/1133) ou [ver resposta](https://raw.githubusercontent.com/joseolinda/Lista_Repeticoes_Beecrowd/main/8.1133_resto_divisao.c).
 
-- [ ] Q9 - 1134 - Tipo de Combustível: [ver questão](https://www.beecrowd.com.br/judge/pt/problems/view/1134) ou [ver resposta](https://raw.githubusercontent.com/joseolinda/Lista_Repeticoes_Beecrowd/main/9.1134_tipo_combustivel.c).
+- [ ] Q09 - 1134 - Tipo de Combustível: [ver questão](https://www.beecrowd.com.br/judge/pt/problems/view/1134) ou [ver resposta](https://raw.githubusercontent.com/joseolinda/Lista_Repeticoes_Beecrowd/main/9.1134_tipo_combustivel.c).
 
 - [ ] Q10 - 1145 - Sequência Lógica 2: [ver questão](https://www.beecrowd.com.br/judge/pt/problems/view/1145) ou [ver resposta](https://raw.githubusercontent.com/joseolinda/Lista_Repeticoes_Beecrowd/main/10.1145_sequencia_logica_2.c).
 
