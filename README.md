@@ -6,6 +6,8 @@
 
 Resolução dos exercícios da disciplina de Linguagem de Programação e Programação. As questões foram retiradas do Beecrowd (antigo URI).
 
+> **Aviso:** As questões cujo nome do aquivo terminam com `_v2.c` são verões para "humano" (comentadas e com mensagens de entrada) dos arquivos sem o sufixo `_v2.c`. Não devem ser submetidas ao Beecrowd. Use-as para estudar e entender o código.
+
 #### Questões
 
 - [x] Q1 - 1074 - Par ou Ímpar: [ver questão](https://www.beecrowd.com.br/judge/pt/problems/view/1074) ou [ver resposta](https://raw.githubusercontent.com/joseolinda/Lista_Repeticoes_Beecrowd/main/1.1074_par_ou_impar.c).
