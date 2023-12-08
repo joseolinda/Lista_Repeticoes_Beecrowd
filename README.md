@@ -18,7 +18,7 @@ Resolução dos exercícios da disciplina de Linguagem de Programação e Progra
 
 - [x] Q4 - 1099 - Soma de Ímpares Consecutivos II: [ver questão](https://www.beecrowd.com.br/judge/pt/problems/view/1099) ou [ver resposta](https://raw.githubusercontent.com/joseolinda/Lista_Repeticoes_Beecrowd/main/4.1099_soma_impares.c).
 
-- [ ] Q5 - 1114 - Senha Fixa: [ver questão](https://www.beecrowd.com.br/judge/pt/problems/view/1114) ou [ver resposta](https://raw.githubusercontent.com/joseolinda/Lista_Repeticoes_Beecrowd/main/5.1014_senha_fixa.c).
+- [X] Q5 - 1114 - Senha Fixa: [ver questão](https://www.beecrowd.com.br/judge/pt/problems/view/1114) ou [ver resposta](https://raw.githubusercontent.com/joseolinda/Lista_Repeticoes_Beecrowd/main/5.1014_senha_fixa.c).
 
 - [ ] Q6 - 1116 - Dividinho X por Y: [ver questão](https://www.beecrowd.com.br/judge/pt/problems/view/1116) ou [ver resposta](https://raw.githubusercontent.com/joseolinda/Lista_Repeticoes_Beecrowd/main/6.1116_dividindo_x_y.c).
 
