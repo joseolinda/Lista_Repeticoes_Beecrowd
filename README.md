@@ -20,7 +20,7 @@ Resolução dos exercícios da disciplina de Linguagem de Programação e Progra
 
 - [X] Q5 - 1114 - Senha Fixa: [ver questão](https://www.beecrowd.com.br/judge/pt/problems/view/1114) ou [ver resposta](https://raw.githubusercontent.com/joseolinda/Lista_Repeticoes_Beecrowd/main/5.1014_senha_fixa.c).
 
-- [ ] Q6 - 1116 - Dividinho X por Y: [ver questão](https://www.beecrowd.com.br/judge/pt/problems/view/1116) ou [ver resposta](https://raw.githubusercontent.com/joseolinda/Lista_Repeticoes_Beecrowd/main/6.1116_dividindo_x_y.c).
+- [x] Q6 - 1116 - Dividinho X por Y: [ver questão](https://www.beecrowd.com.br/judge/pt/problems/view/1116) ou [ver resposta](https://raw.githubusercontent.com/joseolinda/Lista_Repeticoes_Beecrowd/main/6.1116_dividindo_x_y.c).
 
 - [ ] Q7 - 1118 - Várias Notas Com Validação: [ver questão](https://www.beecrowd.com.br/judge/pt/problems/view/1118) ou [ver resposta](https://raw.githubusercontent.com/joseolinda/Lista_Repeticoes_Beecrowd/main/7.1118_notas_validacao.c).
 
